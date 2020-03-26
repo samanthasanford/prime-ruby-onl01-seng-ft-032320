@@ -6,6 +6,12 @@ def prime?(num)
   if num <= 0 || num == 1 
     return false 
     
-  elsif num > 2 
+  elsif range.any? {|i| num % i == 0}
+  return false
+  
+else 
+  return true 
+  
+end
   
 end
