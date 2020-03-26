@@ -1,5 +1,5 @@
 # Add  code here!
 
 def prime?(num)
-  if 
+  array = ()
 end
