@@ -1,5 +1,7 @@
 # Add  code here!
 
 def prime?(num)
-  array = ()
+  if num <= 0 || num == 1 
+    return false 
+  els
 end
