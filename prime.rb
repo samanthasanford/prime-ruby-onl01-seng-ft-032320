@@ -1,6 +1,5 @@
 # Add  code here!
-num = []
 
-def prime?()
-  
+def prime?(num)
+  if 
 end
